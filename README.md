@@ -8,4 +8,5 @@ Compile using
 I noticed I was having to scroll up and down the code all the time to check the variable
 types, so I'm trying a new naming system in which the variable name starts with its type.
 Here is the reference I'm using.
+
 [Hungarian notation reference](http://web.mst.edu/~cpp/common/hungarian.html)
